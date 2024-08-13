@@ -1,0 +1,14 @@
+C:\c-sharp\dados_teclado\bin\Debug\net8.0\dados_teclado.exe
+C:\c-sharp\dados_teclado\bin\Debug\net8.0\dados_teclado.deps.json
+C:\c-sharp\dados_teclado\bin\Debug\net8.0\dados_teclado.runtimeconfig.json
+C:\c-sharp\dados_teclado\bin\Debug\net8.0\dados_teclado.dll
+C:\c-sharp\dados_teclado\bin\Debug\net8.0\dados_teclado.pdb
+C:\c-sharp\dados_teclado\obj\Debug\net8.0\dados_teclado.GeneratedMSBuildEditorConfig.editorconfig
+C:\c-sharp\dados_teclado\obj\Debug\net8.0\dados_teclado.AssemblyInfoInputs.cache
+C:\c-sharp\dados_teclado\obj\Debug\net8.0\dados_teclado.AssemblyInfo.cs
+C:\c-sharp\dados_teclado\obj\Debug\net8.0\dados_teclado.csproj.CoreCompileInputs.cache
+C:\c-sharp\dados_teclado\obj\Debug\net8.0\dados_teclado.dll
+C:\c-sharp\dados_teclado\obj\Debug\net8.0\refint\dados_teclado.dll
+C:\c-sharp\dados_teclado\obj\Debug\net8.0\dados_teclado.pdb
+C:\c-sharp\dados_teclado\obj\Debug\net8.0\dados_teclado.genruntimeconfig.cache
+C:\c-sharp\dados_teclado\obj\Debug\net8.0\ref\dados_teclado.dll

@@ -1,0 +1,39 @@
+Lista de Comandos para C# (C Sharp)
+
+----------------------------------
+
+IMPRESSÃO NO CONSOLE
+
+Console.WriteLine("Hello, World!"); 
+
+----------------------------------
+
+VARIÁVEIS!
+
+float -> Ponto Flutuante | num = 10.23F;
+double -> Ponto Flutuante | num = 10.23;
+bool -> Tipo booleano | True ou False
+
+(| Double maior que Float |)
+
+----------------------------------
+
+OPERADORES DE COMPARAÇÃO E ATRIBUIÇÃO!
+
+= -> Atribui valor
+> -> Maior do que
+< -> Menor do que
+>= -> Maior ou igual a
+<= -> Menor ou igual a
+!= -> Diferente de
+== -> É igual a
+! -> Negação | Inversão de valor
+
+OPERADORES DE INCREMENTO E DECREMENTO!
+
+++ -> Pós-Incremento | num++ / num+=1 / num = num+
+++ -> Pré-Incremento | ++num
+
+OPERADORES LÓGICOS
+
+&

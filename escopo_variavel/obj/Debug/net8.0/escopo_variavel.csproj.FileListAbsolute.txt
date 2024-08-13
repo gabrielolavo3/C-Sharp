@@ -1,0 +1,14 @@
+C:\c-sharp\escopo_variavel\obj\Debug\net8.0\escopo_variavel.GeneratedMSBuildEditorConfig.editorconfig
+C:\c-sharp\escopo_variavel\obj\Debug\net8.0\escopo_variavel.AssemblyInfoInputs.cache
+C:\c-sharp\escopo_variavel\obj\Debug\net8.0\escopo_variavel.AssemblyInfo.cs
+C:\c-sharp\escopo_variavel\obj\Debug\net8.0\escopo_variavel.csproj.CoreCompileInputs.cache
+C:\c-sharp\escopo_variavel\bin\Debug\net8.0\escopo_variavel.exe
+C:\c-sharp\escopo_variavel\bin\Debug\net8.0\escopo_variavel.deps.json
+C:\c-sharp\escopo_variavel\bin\Debug\net8.0\escopo_variavel.runtimeconfig.json
+C:\c-sharp\escopo_variavel\bin\Debug\net8.0\escopo_variavel.dll
+C:\c-sharp\escopo_variavel\bin\Debug\net8.0\escopo_variavel.pdb
+C:\c-sharp\escopo_variavel\obj\Debug\net8.0\escopo_variavel.dll
+C:\c-sharp\escopo_variavel\obj\Debug\net8.0\refint\escopo_variavel.dll
+C:\c-sharp\escopo_variavel\obj\Debug\net8.0\escopo_variavel.pdb
+C:\c-sharp\escopo_variavel\obj\Debug\net8.0\escopo_variavel.genruntimeconfig.cache
+C:\c-sharp\escopo_variavel\obj\Debug\net8.0\ref\escopo_variavel.dll

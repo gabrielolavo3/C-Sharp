@@ -1,0 +1,14 @@
+C:\c-sharp\constante\obj\Debug\net8.0\constante.GeneratedMSBuildEditorConfig.editorconfig
+C:\c-sharp\constante\obj\Debug\net8.0\constante.AssemblyInfoInputs.cache
+C:\c-sharp\constante\obj\Debug\net8.0\constante.AssemblyInfo.cs
+C:\c-sharp\constante\obj\Debug\net8.0\constante.csproj.CoreCompileInputs.cache
+C:\c-sharp\constante\bin\Debug\net8.0\constante.exe
+C:\c-sharp\constante\bin\Debug\net8.0\constante.deps.json
+C:\c-sharp\constante\bin\Debug\net8.0\constante.runtimeconfig.json
+C:\c-sharp\constante\bin\Debug\net8.0\constante.dll
+C:\c-sharp\constante\bin\Debug\net8.0\constante.pdb
+C:\c-sharp\constante\obj\Debug\net8.0\constante.dll
+C:\c-sharp\constante\obj\Debug\net8.0\refint\constante.dll
+C:\c-sharp\constante\obj\Debug\net8.0\constante.pdb
+C:\c-sharp\constante\obj\Debug\net8.0\constante.genruntimeconfig.cache
+C:\c-sharp\constante\obj\Debug\net8.0\ref\constante.dll

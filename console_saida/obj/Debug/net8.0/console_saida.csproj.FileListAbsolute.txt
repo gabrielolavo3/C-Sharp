@@ -1,0 +1,14 @@
+C:\c-sharp\console_saida\obj\Debug\net8.0\console_saida.GeneratedMSBuildEditorConfig.editorconfig
+C:\c-sharp\console_saida\obj\Debug\net8.0\console_saida.AssemblyInfoInputs.cache
+C:\c-sharp\console_saida\obj\Debug\net8.0\console_saida.AssemblyInfo.cs
+C:\c-sharp\console_saida\obj\Debug\net8.0\console_saida.csproj.CoreCompileInputs.cache
+C:\c-sharp\console_saida\bin\Debug\net8.0\console_saida.exe
+C:\c-sharp\console_saida\bin\Debug\net8.0\console_saida.deps.json
+C:\c-sharp\console_saida\bin\Debug\net8.0\console_saida.runtimeconfig.json
+C:\c-sharp\console_saida\bin\Debug\net8.0\console_saida.dll
+C:\c-sharp\console_saida\bin\Debug\net8.0\console_saida.pdb
+C:\c-sharp\console_saida\obj\Debug\net8.0\console_saida.dll
+C:\c-sharp\console_saida\obj\Debug\net8.0\refint\console_saida.dll
+C:\c-sharp\console_saida\obj\Debug\net8.0\console_saida.pdb
+C:\c-sharp\console_saida\obj\Debug\net8.0\console_saida.genruntimeconfig.cache
+C:\c-sharp\console_saida\obj\Debug\net8.0\ref\console_saida.dll
