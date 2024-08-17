@@ -1,0 +1,15 @@
+C:\c-sharp\enum\obj\Debug\net8.0\enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\c-sharp\enum\obj\Debug\net8.0\enum.AssemblyInfoInputs.cache
+C:\c-sharp\enum\obj\Debug\net8.0\enum.AssemblyInfo.cs
+C:\c-sharp\enum\obj\Debug\net8.0\enum.csproj.CoreCompileInputs.cache
+C:\c-sharp\enum\obj\Debug\net8.0\enum.sourcelink.json
+C:\c-sharp\enum\bin\Debug\net8.0\enum.exe
+C:\c-sharp\enum\bin\Debug\net8.0\enum.deps.json
+C:\c-sharp\enum\bin\Debug\net8.0\enum.runtimeconfig.json
+C:\c-sharp\enum\bin\Debug\net8.0\enum.dll
+C:\c-sharp\enum\bin\Debug\net8.0\enum.pdb
+C:\c-sharp\enum\obj\Debug\net8.0\enum.dll
+C:\c-sharp\enum\obj\Debug\net8.0\refint\enum.dll
+C:\c-sharp\enum\obj\Debug\net8.0\enum.pdb
+C:\c-sharp\enum\obj\Debug\net8.0\enum.genruntimeconfig.cache
+C:\c-sharp\enum\obj\Debug\net8.0\ref\enum.dll
