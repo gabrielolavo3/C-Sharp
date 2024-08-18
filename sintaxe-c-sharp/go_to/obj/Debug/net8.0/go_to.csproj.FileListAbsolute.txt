@@ -1,0 +1,15 @@
+C:\c-sharp\sintaxe-c-sharp\go_to\bin\Debug\net8.0\go_to.exe
+C:\c-sharp\sintaxe-c-sharp\go_to\bin\Debug\net8.0\go_to.deps.json
+C:\c-sharp\sintaxe-c-sharp\go_to\bin\Debug\net8.0\go_to.runtimeconfig.json
+C:\c-sharp\sintaxe-c-sharp\go_to\bin\Debug\net8.0\go_to.dll
+C:\c-sharp\sintaxe-c-sharp\go_to\bin\Debug\net8.0\go_to.pdb
+C:\c-sharp\sintaxe-c-sharp\go_to\obj\Debug\net8.0\go_to.GeneratedMSBuildEditorConfig.editorconfig
+C:\c-sharp\sintaxe-c-sharp\go_to\obj\Debug\net8.0\go_to.AssemblyInfoInputs.cache
+C:\c-sharp\sintaxe-c-sharp\go_to\obj\Debug\net8.0\go_to.AssemblyInfo.cs
+C:\c-sharp\sintaxe-c-sharp\go_to\obj\Debug\net8.0\go_to.csproj.CoreCompileInputs.cache
+C:\c-sharp\sintaxe-c-sharp\go_to\obj\Debug\net8.0\go_to.sourcelink.json
+C:\c-sharp\sintaxe-c-sharp\go_to\obj\Debug\net8.0\go_to.dll
+C:\c-sharp\sintaxe-c-sharp\go_to\obj\Debug\net8.0\refint\go_to.dll
+C:\c-sharp\sintaxe-c-sharp\go_to\obj\Debug\net8.0\go_to.pdb
+C:\c-sharp\sintaxe-c-sharp\go_to\obj\Debug\net8.0\go_to.genruntimeconfig.cache
+C:\c-sharp\sintaxe-c-sharp\go_to\obj\Debug\net8.0\ref\go_to.dll

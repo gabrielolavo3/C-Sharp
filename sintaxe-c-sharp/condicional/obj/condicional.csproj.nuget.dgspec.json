@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\c-sharp\\condicional\\condicional.csproj": {}
+    "C:\\c-sharp\\sintaxe-c-sharp\\condicional\\condicional.csproj": {}
   },
   "projects": {
-    "C:\\c-sharp\\condicional\\condicional.csproj": {
+    "C:\\c-sharp\\sintaxe-c-sharp\\condicional\\condicional.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\c-sharp\\condicional\\condicional.csproj",
+        "projectUniqueName": "C:\\c-sharp\\sintaxe-c-sharp\\condicional\\condicional.csproj",
         "projectName": "condicional",
-        "projectPath": "C:\\c-sharp\\condicional\\condicional.csproj",
+        "projectPath": "C:\\c-sharp\\sintaxe-c-sharp\\condicional\\condicional.csproj",
         "packagesPath": "C:\\Users\\Gabriel Santos Olavo\\.nuget\\packages\\",
-        "outputPath": "C:\\c-sharp\\condicional\\obj\\",
+        "outputPath": "C:\\c-sharp\\sintaxe-c-sharp\\condicional\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

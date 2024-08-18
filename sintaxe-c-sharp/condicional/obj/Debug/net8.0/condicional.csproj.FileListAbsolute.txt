@@ -1,0 +1,15 @@
+C:\c-sharp\sintaxe-c-sharp\condicional\obj\Debug\net8.0\condicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\c-sharp\sintaxe-c-sharp\condicional\obj\Debug\net8.0\condicional.AssemblyInfoInputs.cache
+C:\c-sharp\sintaxe-c-sharp\condicional\obj\Debug\net8.0\condicional.AssemblyInfo.cs
+C:\c-sharp\sintaxe-c-sharp\condicional\obj\Debug\net8.0\condicional.csproj.CoreCompileInputs.cache
+C:\c-sharp\sintaxe-c-sharp\condicional\obj\Debug\net8.0\condicional.sourcelink.json
+C:\c-sharp\sintaxe-c-sharp\condicional\bin\Debug\net8.0\condicional.exe
+C:\c-sharp\sintaxe-c-sharp\condicional\bin\Debug\net8.0\condicional.deps.json
+C:\c-sharp\sintaxe-c-sharp\condicional\bin\Debug\net8.0\condicional.runtimeconfig.json
+C:\c-sharp\sintaxe-c-sharp\condicional\bin\Debug\net8.0\condicional.dll
+C:\c-sharp\sintaxe-c-sharp\condicional\bin\Debug\net8.0\condicional.pdb
+C:\c-sharp\sintaxe-c-sharp\condicional\obj\Debug\net8.0\condicional.dll
+C:\c-sharp\sintaxe-c-sharp\condicional\obj\Debug\net8.0\refint\condicional.dll
+C:\c-sharp\sintaxe-c-sharp\condicional\obj\Debug\net8.0\condicional.pdb
+C:\c-sharp\sintaxe-c-sharp\condicional\obj\Debug\net8.0\condicional.genruntimeconfig.cache
+C:\c-sharp\sintaxe-c-sharp\condicional\obj\Debug\net8.0\ref\condicional.dll
