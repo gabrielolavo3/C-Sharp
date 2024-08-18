@@ -1,0 +1,15 @@
+C:\c-sharp\treino-c-sharp\iteracao\par_1_20\bin\Debug\net8.0\par_1_20.exe
+C:\c-sharp\treino-c-sharp\iteracao\par_1_20\bin\Debug\net8.0\par_1_20.deps.json
+C:\c-sharp\treino-c-sharp\iteracao\par_1_20\bin\Debug\net8.0\par_1_20.runtimeconfig.json
+C:\c-sharp\treino-c-sharp\iteracao\par_1_20\bin\Debug\net8.0\par_1_20.dll
+C:\c-sharp\treino-c-sharp\iteracao\par_1_20\bin\Debug\net8.0\par_1_20.pdb
+C:\c-sharp\treino-c-sharp\iteracao\par_1_20\obj\Debug\net8.0\par_1_20.GeneratedMSBuildEditorConfig.editorconfig
+C:\c-sharp\treino-c-sharp\iteracao\par_1_20\obj\Debug\net8.0\par_1_20.AssemblyInfoInputs.cache
+C:\c-sharp\treino-c-sharp\iteracao\par_1_20\obj\Debug\net8.0\par_1_20.AssemblyInfo.cs
+C:\c-sharp\treino-c-sharp\iteracao\par_1_20\obj\Debug\net8.0\par_1_20.csproj.CoreCompileInputs.cache
+C:\c-sharp\treino-c-sharp\iteracao\par_1_20\obj\Debug\net8.0\par_1_20.sourcelink.json
+C:\c-sharp\treino-c-sharp\iteracao\par_1_20\obj\Debug\net8.0\par_1_20.dll
+C:\c-sharp\treino-c-sharp\iteracao\par_1_20\obj\Debug\net8.0\refint\par_1_20.dll
+C:\c-sharp\treino-c-sharp\iteracao\par_1_20\obj\Debug\net8.0\par_1_20.pdb
+C:\c-sharp\treino-c-sharp\iteracao\par_1_20\obj\Debug\net8.0\par_1_20.genruntimeconfig.cache
+C:\c-sharp\treino-c-sharp\iteracao\par_1_20\obj\Debug\net8.0\ref\par_1_20.dll

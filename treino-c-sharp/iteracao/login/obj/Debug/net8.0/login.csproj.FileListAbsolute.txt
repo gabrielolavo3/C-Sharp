@@ -1,0 +1,15 @@
+C:\c-sharp\treino-c-sharp\iteracao\login\bin\Debug\net8.0\login.exe
+C:\c-sharp\treino-c-sharp\iteracao\login\bin\Debug\net8.0\login.deps.json
+C:\c-sharp\treino-c-sharp\iteracao\login\bin\Debug\net8.0\login.runtimeconfig.json
+C:\c-sharp\treino-c-sharp\iteracao\login\bin\Debug\net8.0\login.dll
+C:\c-sharp\treino-c-sharp\iteracao\login\bin\Debug\net8.0\login.pdb
+C:\c-sharp\treino-c-sharp\iteracao\login\obj\Debug\net8.0\login.GeneratedMSBuildEditorConfig.editorconfig
+C:\c-sharp\treino-c-sharp\iteracao\login\obj\Debug\net8.0\login.AssemblyInfoInputs.cache
+C:\c-sharp\treino-c-sharp\iteracao\login\obj\Debug\net8.0\login.AssemblyInfo.cs
+C:\c-sharp\treino-c-sharp\iteracao\login\obj\Debug\net8.0\login.csproj.CoreCompileInputs.cache
+C:\c-sharp\treino-c-sharp\iteracao\login\obj\Debug\net8.0\login.sourcelink.json
+C:\c-sharp\treino-c-sharp\iteracao\login\obj\Debug\net8.0\login.dll
+C:\c-sharp\treino-c-sharp\iteracao\login\obj\Debug\net8.0\refint\login.dll
+C:\c-sharp\treino-c-sharp\iteracao\login\obj\Debug\net8.0\login.pdb
+C:\c-sharp\treino-c-sharp\iteracao\login\obj\Debug\net8.0\login.genruntimeconfig.cache
+C:\c-sharp\treino-c-sharp\iteracao\login\obj\Debug\net8.0\ref\login.dll

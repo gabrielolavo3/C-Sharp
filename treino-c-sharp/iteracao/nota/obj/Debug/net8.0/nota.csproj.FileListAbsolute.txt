@@ -1,0 +1,15 @@
+C:\c-sharp\treino-c-sharp\iteracao\nota\obj\Debug\net8.0\nota.GeneratedMSBuildEditorConfig.editorconfig
+C:\c-sharp\treino-c-sharp\iteracao\nota\obj\Debug\net8.0\nota.AssemblyInfoInputs.cache
+C:\c-sharp\treino-c-sharp\iteracao\nota\obj\Debug\net8.0\nota.AssemblyInfo.cs
+C:\c-sharp\treino-c-sharp\iteracao\nota\obj\Debug\net8.0\nota.csproj.CoreCompileInputs.cache
+C:\c-sharp\treino-c-sharp\iteracao\nota\obj\Debug\net8.0\nota.sourcelink.json
+C:\c-sharp\treino-c-sharp\iteracao\nota\bin\Debug\net8.0\nota.exe
+C:\c-sharp\treino-c-sharp\iteracao\nota\bin\Debug\net8.0\nota.deps.json
+C:\c-sharp\treino-c-sharp\iteracao\nota\bin\Debug\net8.0\nota.runtimeconfig.json
+C:\c-sharp\treino-c-sharp\iteracao\nota\bin\Debug\net8.0\nota.dll
+C:\c-sharp\treino-c-sharp\iteracao\nota\bin\Debug\net8.0\nota.pdb
+C:\c-sharp\treino-c-sharp\iteracao\nota\obj\Debug\net8.0\nota.dll
+C:\c-sharp\treino-c-sharp\iteracao\nota\obj\Debug\net8.0\refint\nota.dll
+C:\c-sharp\treino-c-sharp\iteracao\nota\obj\Debug\net8.0\nota.pdb
+C:\c-sharp\treino-c-sharp\iteracao\nota\obj\Debug\net8.0\nota.genruntimeconfig.cache
+C:\c-sharp\treino-c-sharp\iteracao\nota\obj\Debug\net8.0\ref\nota.dll
