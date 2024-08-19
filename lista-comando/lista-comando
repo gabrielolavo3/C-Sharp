@@ -2,23 +2,153 @@ Lista de Comandos para C# (C Sharp)
 
 ----------------------------------
 
-IMPRESSÃO NO CONSOLE
+SINTAXE BÁSICA DO C# !!
+
+using System;
+
+namespace Name
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            <Blocos de Comandos>            
+        }
+    }
+}
+
+----------------------------------
+
+IMPRESSÃO NO CONSOLE E CONCATENAÇÃO !
 
 Console.WriteLine("Hello, World!"); 
+Console.WriteLine("Hello," + " World!"); 
+
+|| Concatenação Formatada com Variáveis
+
+Console.WriteLine("Valor do elemento: " + number); 
+Console.WriteLine("Valor do elemento: {0}", number); // Impressão pelo indice
+Console.WriteLine($"Valor do elemento: {number}"); 
 
 ----------------------------------
 
-VARIÁVEIS!
+VARIÁVEIS !
 
-float -> Ponto Flutuante | num = 10.23F;
+int, byte, short -> Valor inteiro, sem casa decimal | value = 10;
+float -> Ponto Flutuante | num = 10.23F; / O F ou f identifica que é do tipo Float
 double -> Ponto Flutuante | num = 10.23;
 bool -> Tipo booleano | True ou False
+char -> Caractere único | letra = 'a';
+string -> Múltiplos caracteres | filme = 'Kill Bill';
 
-(| Double maior que Float |)
+(| Double > Float 
+   Int > Short > Byte |)
+
+|| Declaração de Variáveis não Inicializadas
+
+tipo <nome>;
+
+- Exemplos:
+
+    int valorInteiro;
+    float valorFlutuante;
+    char caractere;
+    string diretorCinema;
+    bool true_false;
+
+- Múltiplas variáveis do mesmo tipo:
+
+    int numero,
+        valor,
+        num;
+
+    float flutuante,
+        decimal,
+        real;
+
+    string filme,
+        diretorCinema,
+        redeCinema;
+
+|| Variáveis Inicializadas
+
+tipo <nome> = <valorElemento>;
+
+    int numero = 20,
+        valor = 55,
+        num = 1;
+
+    float flutuante = 220.2F,
+        decimal = 12.6F,
+        real = 1.2F;
+
+    string filme = "Django Livre",
+        diretorCinema = "Quantin Tarantino",
+        redeCinema = "UCI Orient";
 
 ----------------------------------
 
-OPERADORES DE COMPARAÇÃO E ATRIBUIÇÃO!
+BITWISE !
+
+- Operador que manipula os bits de memória de uma variável, movendo suas posições
+
+<< -> Altera o valor para o dobro do tamanho original
+>> -> Altera o valor para a metade do tamanho original
+
+- Exemplo
+
+    byte num = 10, 
+        num2 = 20,
+        num3 = 30;
+
+    num = num <<
+    num2 = num2 >>
+    num3 = num
+
+<< 2 -> O número indica quantas vezes o valor deve ser multiplicado
+>> 2 -> O número indica quantas vezes o valor deve ser dividido
+
+- Exemplo
+
+    int num = 10,
+        num2 = 20,
+        num3 = 30;
+
+    num = num << 3
+    num2 = num2 >> 2
+    num3 = num
+
+----------------------------------
+
+ENTRADA DE DADOS!
+
+- Usado para atribuir valores a variáveis através da inserção do usuário durante a execução do programa
+
+Console.Write("Digite um algo: ");
+variável = Console.ReadLine();
+
+| Observações
+
+-- Há duas maneiras de ler variáveis
+
+Console.ReadLine(); -> Ler valor e faz quebra de linha
+Console.Read(); -> Ler valor e não quebra a linha
+
+-- A leitura sempre irá retornar uma string como resultado. Para ler tipos números, precisa de cast (conversão)
+
+|| Conversões
+
+Console.Write("Digite um algo: ");
+num = int.Parse (Console.ReadLine());
+
+                OU
+
+Console.Write("Digite um algo: ");
+num = Convert.ToInt64 (Console.ReadLine());
+
+----------------------------------
+
+OPERADORES RELACIONAIS !
 
 = -> Atribui valor
 > -> Maior do que
@@ -27,13 +157,14 @@ OPERADORES DE COMPARAÇÃO E ATRIBUIÇÃO!
 <= -> Menor ou igual a
 != -> Diferente de
 == -> É igual a
-! -> Negação | Inversão de valor
+! -> Negação | Inversão de valor | True vira False, vice-versa
 
-OPERADORES DE INCREMENTO E DECREMENTO!
+OPERADORES DE INCREMENTO E DECREMENTO !!
 
 ++ -> Pós-Incremento | num++ / num+=1 / num = num+
 ++ -> Pré-Incremento | ++num
 
-OPERADORES LÓGICOS
+OPERADORES LÓGICOS !
 
-&
+Operador E -> && | Satisfeito quando há apenas condições verdadeiras
+Operador OU -> || | Satisfeito quando há no mínimo uma condição verdadeira
