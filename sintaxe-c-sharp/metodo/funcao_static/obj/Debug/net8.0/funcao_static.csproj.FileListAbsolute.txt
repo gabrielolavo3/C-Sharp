@@ -1,0 +1,15 @@
+C:\c-sharp\sintaxe-c-sharp\metodo\funcao_static\bin\Debug\net8.0\funcao_static.exe
+C:\c-sharp\sintaxe-c-sharp\metodo\funcao_static\bin\Debug\net8.0\funcao_static.deps.json
+C:\c-sharp\sintaxe-c-sharp\metodo\funcao_static\bin\Debug\net8.0\funcao_static.runtimeconfig.json
+C:\c-sharp\sintaxe-c-sharp\metodo\funcao_static\bin\Debug\net8.0\funcao_static.dll
+C:\c-sharp\sintaxe-c-sharp\metodo\funcao_static\bin\Debug\net8.0\funcao_static.pdb
+C:\c-sharp\sintaxe-c-sharp\metodo\funcao_static\obj\Debug\net8.0\funcao_static.GeneratedMSBuildEditorConfig.editorconfig
+C:\c-sharp\sintaxe-c-sharp\metodo\funcao_static\obj\Debug\net8.0\funcao_static.AssemblyInfoInputs.cache
+C:\c-sharp\sintaxe-c-sharp\metodo\funcao_static\obj\Debug\net8.0\funcao_static.AssemblyInfo.cs
+C:\c-sharp\sintaxe-c-sharp\metodo\funcao_static\obj\Debug\net8.0\funcao_static.csproj.CoreCompileInputs.cache
+C:\c-sharp\sintaxe-c-sharp\metodo\funcao_static\obj\Debug\net8.0\funcao_static.sourcelink.json
+C:\c-sharp\sintaxe-c-sharp\metodo\funcao_static\obj\Debug\net8.0\funcao_static.dll
+C:\c-sharp\sintaxe-c-sharp\metodo\funcao_static\obj\Debug\net8.0\refint\funcao_static.dll
+C:\c-sharp\sintaxe-c-sharp\metodo\funcao_static\obj\Debug\net8.0\funcao_static.pdb
+C:\c-sharp\sintaxe-c-sharp\metodo\funcao_static\obj\Debug\net8.0\funcao_static.genruntimeconfig.cache
+C:\c-sharp\sintaxe-c-sharp\metodo\funcao_static\obj\Debug\net8.0\ref\funcao_static.dll

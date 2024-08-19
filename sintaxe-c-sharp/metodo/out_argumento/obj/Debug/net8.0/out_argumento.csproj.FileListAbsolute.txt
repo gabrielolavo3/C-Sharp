@@ -1,0 +1,15 @@
+C:\c-sharp\sintaxe-c-sharp\metodo\out_argumento\bin\Debug\net8.0\out_argumento.exe
+C:\c-sharp\sintaxe-c-sharp\metodo\out_argumento\bin\Debug\net8.0\out_argumento.deps.json
+C:\c-sharp\sintaxe-c-sharp\metodo\out_argumento\bin\Debug\net8.0\out_argumento.runtimeconfig.json
+C:\c-sharp\sintaxe-c-sharp\metodo\out_argumento\bin\Debug\net8.0\out_argumento.dll
+C:\c-sharp\sintaxe-c-sharp\metodo\out_argumento\bin\Debug\net8.0\out_argumento.pdb
+C:\c-sharp\sintaxe-c-sharp\metodo\out_argumento\obj\Debug\net8.0\out_argumento.GeneratedMSBuildEditorConfig.editorconfig
+C:\c-sharp\sintaxe-c-sharp\metodo\out_argumento\obj\Debug\net8.0\out_argumento.AssemblyInfoInputs.cache
+C:\c-sharp\sintaxe-c-sharp\metodo\out_argumento\obj\Debug\net8.0\out_argumento.AssemblyInfo.cs
+C:\c-sharp\sintaxe-c-sharp\metodo\out_argumento\obj\Debug\net8.0\out_argumento.csproj.CoreCompileInputs.cache
+C:\c-sharp\sintaxe-c-sharp\metodo\out_argumento\obj\Debug\net8.0\out_argumento.sourcelink.json
+C:\c-sharp\sintaxe-c-sharp\metodo\out_argumento\obj\Debug\net8.0\out_argumento.dll
+C:\c-sharp\sintaxe-c-sharp\metodo\out_argumento\obj\Debug\net8.0\refint\out_argumento.dll
+C:\c-sharp\sintaxe-c-sharp\metodo\out_argumento\obj\Debug\net8.0\out_argumento.pdb
+C:\c-sharp\sintaxe-c-sharp\metodo\out_argumento\obj\Debug\net8.0\out_argumento.genruntimeconfig.cache
+C:\c-sharp\sintaxe-c-sharp\metodo\out_argumento\obj\Debug\net8.0\ref\out_argumento.dll
