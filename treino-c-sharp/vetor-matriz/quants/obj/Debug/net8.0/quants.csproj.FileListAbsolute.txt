@@ -1,0 +1,15 @@
+C:\c-sharp\treino-c-sharp\vetor-matriz\quants\bin\Debug\net8.0\quants.exe
+C:\c-sharp\treino-c-sharp\vetor-matriz\quants\bin\Debug\net8.0\quants.deps.json
+C:\c-sharp\treino-c-sharp\vetor-matriz\quants\bin\Debug\net8.0\quants.runtimeconfig.json
+C:\c-sharp\treino-c-sharp\vetor-matriz\quants\bin\Debug\net8.0\quants.dll
+C:\c-sharp\treino-c-sharp\vetor-matriz\quants\bin\Debug\net8.0\quants.pdb
+C:\c-sharp\treino-c-sharp\vetor-matriz\quants\obj\Debug\net8.0\quants.GeneratedMSBuildEditorConfig.editorconfig
+C:\c-sharp\treino-c-sharp\vetor-matriz\quants\obj\Debug\net8.0\quants.AssemblyInfoInputs.cache
+C:\c-sharp\treino-c-sharp\vetor-matriz\quants\obj\Debug\net8.0\quants.AssemblyInfo.cs
+C:\c-sharp\treino-c-sharp\vetor-matriz\quants\obj\Debug\net8.0\quants.csproj.CoreCompileInputs.cache
+C:\c-sharp\treino-c-sharp\vetor-matriz\quants\obj\Debug\net8.0\quants.sourcelink.json
+C:\c-sharp\treino-c-sharp\vetor-matriz\quants\obj\Debug\net8.0\quants.dll
+C:\c-sharp\treino-c-sharp\vetor-matriz\quants\obj\Debug\net8.0\refint\quants.dll
+C:\c-sharp\treino-c-sharp\vetor-matriz\quants\obj\Debug\net8.0\quants.pdb
+C:\c-sharp\treino-c-sharp\vetor-matriz\quants\obj\Debug\net8.0\quants.genruntimeconfig.cache
+C:\c-sharp\treino-c-sharp\vetor-matriz\quants\obj\Debug\net8.0\ref\quants.dll

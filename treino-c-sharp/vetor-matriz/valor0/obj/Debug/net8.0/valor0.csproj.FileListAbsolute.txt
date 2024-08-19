@@ -1,0 +1,15 @@
+C:\c-sharp\treino-c-sharp\vetor-matriz\valor0\bin\Debug\net8.0\valor0.exe
+C:\c-sharp\treino-c-sharp\vetor-matriz\valor0\bin\Debug\net8.0\valor0.deps.json
+C:\c-sharp\treino-c-sharp\vetor-matriz\valor0\bin\Debug\net8.0\valor0.runtimeconfig.json
+C:\c-sharp\treino-c-sharp\vetor-matriz\valor0\bin\Debug\net8.0\valor0.dll
+C:\c-sharp\treino-c-sharp\vetor-matriz\valor0\bin\Debug\net8.0\valor0.pdb
+C:\c-sharp\treino-c-sharp\vetor-matriz\valor0\obj\Debug\net8.0\valor0.GeneratedMSBuildEditorConfig.editorconfig
+C:\c-sharp\treino-c-sharp\vetor-matriz\valor0\obj\Debug\net8.0\valor0.AssemblyInfoInputs.cache
+C:\c-sharp\treino-c-sharp\vetor-matriz\valor0\obj\Debug\net8.0\valor0.AssemblyInfo.cs
+C:\c-sharp\treino-c-sharp\vetor-matriz\valor0\obj\Debug\net8.0\valor0.csproj.CoreCompileInputs.cache
+C:\c-sharp\treino-c-sharp\vetor-matriz\valor0\obj\Debug\net8.0\valor0.sourcelink.json
+C:\c-sharp\treino-c-sharp\vetor-matriz\valor0\obj\Debug\net8.0\valor0.dll
+C:\c-sharp\treino-c-sharp\vetor-matriz\valor0\obj\Debug\net8.0\refint\valor0.dll
+C:\c-sharp\treino-c-sharp\vetor-matriz\valor0\obj\Debug\net8.0\valor0.pdb
+C:\c-sharp\treino-c-sharp\vetor-matriz\valor0\obj\Debug\net8.0\valor0.genruntimeconfig.cache
+C:\c-sharp\treino-c-sharp\vetor-matriz\valor0\obj\Debug\net8.0\ref\valor0.dll

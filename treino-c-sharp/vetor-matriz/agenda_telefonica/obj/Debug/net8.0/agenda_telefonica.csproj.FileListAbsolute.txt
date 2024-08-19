@@ -1,0 +1,15 @@
+C:\c-sharp\treino-c-sharp\vetor-matriz\agenda_telefonica\bin\Debug\net8.0\agenda_telefonica.exe
+C:\c-sharp\treino-c-sharp\vetor-matriz\agenda_telefonica\bin\Debug\net8.0\agenda_telefonica.deps.json
+C:\c-sharp\treino-c-sharp\vetor-matriz\agenda_telefonica\bin\Debug\net8.0\agenda_telefonica.runtimeconfig.json
+C:\c-sharp\treino-c-sharp\vetor-matriz\agenda_telefonica\bin\Debug\net8.0\agenda_telefonica.dll
+C:\c-sharp\treino-c-sharp\vetor-matriz\agenda_telefonica\bin\Debug\net8.0\agenda_telefonica.pdb
+C:\c-sharp\treino-c-sharp\vetor-matriz\agenda_telefonica\obj\Debug\net8.0\agenda_telefonica.GeneratedMSBuildEditorConfig.editorconfig
+C:\c-sharp\treino-c-sharp\vetor-matriz\agenda_telefonica\obj\Debug\net8.0\agenda_telefonica.AssemblyInfoInputs.cache
+C:\c-sharp\treino-c-sharp\vetor-matriz\agenda_telefonica\obj\Debug\net8.0\agenda_telefonica.AssemblyInfo.cs
+C:\c-sharp\treino-c-sharp\vetor-matriz\agenda_telefonica\obj\Debug\net8.0\agenda_telefonica.csproj.CoreCompileInputs.cache
+C:\c-sharp\treino-c-sharp\vetor-matriz\agenda_telefonica\obj\Debug\net8.0\agenda_telefonica.sourcelink.json
+C:\c-sharp\treino-c-sharp\vetor-matriz\agenda_telefonica\obj\Debug\net8.0\agenda_telefonica.dll
+C:\c-sharp\treino-c-sharp\vetor-matriz\agenda_telefonica\obj\Debug\net8.0\refint\agenda_telefonica.dll
+C:\c-sharp\treino-c-sharp\vetor-matriz\agenda_telefonica\obj\Debug\net8.0\agenda_telefonica.pdb
+C:\c-sharp\treino-c-sharp\vetor-matriz\agenda_telefonica\obj\Debug\net8.0\agenda_telefonica.genruntimeconfig.cache
+C:\c-sharp\treino-c-sharp\vetor-matriz\agenda_telefonica\obj\Debug\net8.0\ref\agenda_telefonica.dll
