@@ -1,0 +1,15 @@
+C:\c-sharp\treino-c-sharp\iteracao\media_positivos\bin\Debug\net8.0\media_positivos.exe
+C:\c-sharp\treino-c-sharp\iteracao\media_positivos\bin\Debug\net8.0\media_positivos.deps.json
+C:\c-sharp\treino-c-sharp\iteracao\media_positivos\bin\Debug\net8.0\media_positivos.runtimeconfig.json
+C:\c-sharp\treino-c-sharp\iteracao\media_positivos\bin\Debug\net8.0\media_positivos.dll
+C:\c-sharp\treino-c-sharp\iteracao\media_positivos\bin\Debug\net8.0\media_positivos.pdb
+C:\c-sharp\treino-c-sharp\iteracao\media_positivos\obj\Debug\net8.0\media_positivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\c-sharp\treino-c-sharp\iteracao\media_positivos\obj\Debug\net8.0\media_positivos.AssemblyInfoInputs.cache
+C:\c-sharp\treino-c-sharp\iteracao\media_positivos\obj\Debug\net8.0\media_positivos.AssemblyInfo.cs
+C:\c-sharp\treino-c-sharp\iteracao\media_positivos\obj\Debug\net8.0\media_positivos.csproj.CoreCompileInputs.cache
+C:\c-sharp\treino-c-sharp\iteracao\media_positivos\obj\Debug\net8.0\media_positivos.sourcelink.json
+C:\c-sharp\treino-c-sharp\iteracao\media_positivos\obj\Debug\net8.0\media_positivos.dll
+C:\c-sharp\treino-c-sharp\iteracao\media_positivos\obj\Debug\net8.0\refint\media_positivos.dll
+C:\c-sharp\treino-c-sharp\iteracao\media_positivos\obj\Debug\net8.0\media_positivos.pdb
+C:\c-sharp\treino-c-sharp\iteracao\media_positivos\obj\Debug\net8.0\media_positivos.genruntimeconfig.cache
+C:\c-sharp\treino-c-sharp\iteracao\media_positivos\obj\Debug\net8.0\ref\media_positivos.dll

@@ -1,0 +1,15 @@
+C:\c-sharp\treino-c-sharp\iteracao\primo\bin\Debug\net8.0\primo.exe
+C:\c-sharp\treino-c-sharp\iteracao\primo\bin\Debug\net8.0\primo.deps.json
+C:\c-sharp\treino-c-sharp\iteracao\primo\bin\Debug\net8.0\primo.runtimeconfig.json
+C:\c-sharp\treino-c-sharp\iteracao\primo\bin\Debug\net8.0\primo.dll
+C:\c-sharp\treino-c-sharp\iteracao\primo\bin\Debug\net8.0\primo.pdb
+C:\c-sharp\treino-c-sharp\iteracao\primo\obj\Debug\net8.0\primo.GeneratedMSBuildEditorConfig.editorconfig
+C:\c-sharp\treino-c-sharp\iteracao\primo\obj\Debug\net8.0\primo.AssemblyInfoInputs.cache
+C:\c-sharp\treino-c-sharp\iteracao\primo\obj\Debug\net8.0\primo.AssemblyInfo.cs
+C:\c-sharp\treino-c-sharp\iteracao\primo\obj\Debug\net8.0\primo.csproj.CoreCompileInputs.cache
+C:\c-sharp\treino-c-sharp\iteracao\primo\obj\Debug\net8.0\primo.sourcelink.json
+C:\c-sharp\treino-c-sharp\iteracao\primo\obj\Debug\net8.0\primo.dll
+C:\c-sharp\treino-c-sharp\iteracao\primo\obj\Debug\net8.0\refint\primo.dll
+C:\c-sharp\treino-c-sharp\iteracao\primo\obj\Debug\net8.0\primo.pdb
+C:\c-sharp\treino-c-sharp\iteracao\primo\obj\Debug\net8.0\primo.genruntimeconfig.cache
+C:\c-sharp\treino-c-sharp\iteracao\primo\obj\Debug\net8.0\ref\primo.dll
