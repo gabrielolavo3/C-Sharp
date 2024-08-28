@@ -1,0 +1,15 @@
+C:\c-sharp\treino-c-sharp\iteracao\buscanumero\bin\Debug\net8.0\buscanumero.exe
+C:\c-sharp\treino-c-sharp\iteracao\buscanumero\bin\Debug\net8.0\buscanumero.deps.json
+C:\c-sharp\treino-c-sharp\iteracao\buscanumero\bin\Debug\net8.0\buscanumero.runtimeconfig.json
+C:\c-sharp\treino-c-sharp\iteracao\buscanumero\bin\Debug\net8.0\buscanumero.dll
+C:\c-sharp\treino-c-sharp\iteracao\buscanumero\bin\Debug\net8.0\buscanumero.pdb
+C:\c-sharp\treino-c-sharp\iteracao\buscanumero\obj\Debug\net8.0\buscanumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\c-sharp\treino-c-sharp\iteracao\buscanumero\obj\Debug\net8.0\buscanumero.AssemblyInfoInputs.cache
+C:\c-sharp\treino-c-sharp\iteracao\buscanumero\obj\Debug\net8.0\buscanumero.AssemblyInfo.cs
+C:\c-sharp\treino-c-sharp\iteracao\buscanumero\obj\Debug\net8.0\buscanumero.csproj.CoreCompileInputs.cache
+C:\c-sharp\treino-c-sharp\iteracao\buscanumero\obj\Debug\net8.0\buscanumero.sourcelink.json
+C:\c-sharp\treino-c-sharp\iteracao\buscanumero\obj\Debug\net8.0\buscanumero.dll
+C:\c-sharp\treino-c-sharp\iteracao\buscanumero\obj\Debug\net8.0\refint\buscanumero.dll
+C:\c-sharp\treino-c-sharp\iteracao\buscanumero\obj\Debug\net8.0\buscanumero.pdb
+C:\c-sharp\treino-c-sharp\iteracao\buscanumero\obj\Debug\net8.0\buscanumero.genruntimeconfig.cache
+C:\c-sharp\treino-c-sharp\iteracao\buscanumero\obj\Debug\net8.0\ref\buscanumero.dll

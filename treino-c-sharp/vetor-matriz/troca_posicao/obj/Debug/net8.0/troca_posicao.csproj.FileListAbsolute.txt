@@ -1,0 +1,15 @@
+C:\c-sharp\treino-c-sharp\vetor-matriz\troca_posicao\bin\Debug\net8.0\troca_posicao.exe
+C:\c-sharp\treino-c-sharp\vetor-matriz\troca_posicao\bin\Debug\net8.0\troca_posicao.deps.json
+C:\c-sharp\treino-c-sharp\vetor-matriz\troca_posicao\bin\Debug\net8.0\troca_posicao.runtimeconfig.json
+C:\c-sharp\treino-c-sharp\vetor-matriz\troca_posicao\bin\Debug\net8.0\troca_posicao.dll
+C:\c-sharp\treino-c-sharp\vetor-matriz\troca_posicao\bin\Debug\net8.0\troca_posicao.pdb
+C:\c-sharp\treino-c-sharp\vetor-matriz\troca_posicao\obj\Debug\net8.0\troca_posicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\c-sharp\treino-c-sharp\vetor-matriz\troca_posicao\obj\Debug\net8.0\troca_posicao.AssemblyInfoInputs.cache
+C:\c-sharp\treino-c-sharp\vetor-matriz\troca_posicao\obj\Debug\net8.0\troca_posicao.AssemblyInfo.cs
+C:\c-sharp\treino-c-sharp\vetor-matriz\troca_posicao\obj\Debug\net8.0\troca_posicao.csproj.CoreCompileInputs.cache
+C:\c-sharp\treino-c-sharp\vetor-matriz\troca_posicao\obj\Debug\net8.0\troca_posicao.sourcelink.json
+C:\c-sharp\treino-c-sharp\vetor-matriz\troca_posicao\obj\Debug\net8.0\troca_posicao.dll
+C:\c-sharp\treino-c-sharp\vetor-matriz\troca_posicao\obj\Debug\net8.0\refint\troca_posicao.dll
+C:\c-sharp\treino-c-sharp\vetor-matriz\troca_posicao\obj\Debug\net8.0\troca_posicao.pdb
+C:\c-sharp\treino-c-sharp\vetor-matriz\troca_posicao\obj\Debug\net8.0\troca_posicao.genruntimeconfig.cache
+C:\c-sharp\treino-c-sharp\vetor-matriz\troca_posicao\obj\Debug\net8.0\ref\troca_posicao.dll

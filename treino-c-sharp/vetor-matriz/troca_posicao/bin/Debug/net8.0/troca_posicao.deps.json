@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "troca_posicao/1.0.0": {
+        "runtime": {
+          "troca_posicao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "troca_posicao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\c-sharp\treino-c-sharp\funcao\negativo_positivo\obj\Debug\net8.0\negativo_positivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\c-sharp\treino-c-sharp\funcao\negativo_positivo\obj\Debug\net8.0\negativo_positivo.AssemblyInfoInputs.cache
+C:\c-sharp\treino-c-sharp\funcao\negativo_positivo\obj\Debug\net8.0\negativo_positivo.AssemblyInfo.cs
+C:\c-sharp\treino-c-sharp\funcao\negativo_positivo\obj\Debug\net8.0\negativo_positivo.csproj.CoreCompileInputs.cache
+C:\c-sharp\treino-c-sharp\funcao\negativo_positivo\obj\Debug\net8.0\negativo_positivo.sourcelink.json
+C:\c-sharp\treino-c-sharp\funcao\negativo_positivo\bin\Debug\net8.0\negativo_positivo.exe
+C:\c-sharp\treino-c-sharp\funcao\negativo_positivo\bin\Debug\net8.0\negativo_positivo.deps.json
+C:\c-sharp\treino-c-sharp\funcao\negativo_positivo\bin\Debug\net8.0\negativo_positivo.runtimeconfig.json
+C:\c-sharp\treino-c-sharp\funcao\negativo_positivo\bin\Debug\net8.0\negativo_positivo.dll
+C:\c-sharp\treino-c-sharp\funcao\negativo_positivo\bin\Debug\net8.0\negativo_positivo.pdb
+C:\c-sharp\treino-c-sharp\funcao\negativo_positivo\obj\Debug\net8.0\negativo_positivo.dll
+C:\c-sharp\treino-c-sharp\funcao\negativo_positivo\obj\Debug\net8.0\refint\negativo_positivo.dll
+C:\c-sharp\treino-c-sharp\funcao\negativo_positivo\obj\Debug\net8.0\negativo_positivo.pdb
+C:\c-sharp\treino-c-sharp\funcao\negativo_positivo\obj\Debug\net8.0\negativo_positivo.genruntimeconfig.cache
+C:\c-sharp\treino-c-sharp\funcao\negativo_positivo\obj\Debug\net8.0\ref\negativo_positivo.dll
