@@ -1,0 +1,15 @@
+C:\c-sharp\treino-c-sharp\iteracao\multi_vetor\bin\Debug\net8.0\multi_vetor.exe
+C:\c-sharp\treino-c-sharp\iteracao\multi_vetor\bin\Debug\net8.0\multi_vetor.deps.json
+C:\c-sharp\treino-c-sharp\iteracao\multi_vetor\bin\Debug\net8.0\multi_vetor.runtimeconfig.json
+C:\c-sharp\treino-c-sharp\iteracao\multi_vetor\bin\Debug\net8.0\multi_vetor.dll
+C:\c-sharp\treino-c-sharp\iteracao\multi_vetor\bin\Debug\net8.0\multi_vetor.pdb
+C:\c-sharp\treino-c-sharp\iteracao\multi_vetor\obj\Debug\net8.0\multi_vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\c-sharp\treino-c-sharp\iteracao\multi_vetor\obj\Debug\net8.0\multi_vetor.AssemblyInfoInputs.cache
+C:\c-sharp\treino-c-sharp\iteracao\multi_vetor\obj\Debug\net8.0\multi_vetor.AssemblyInfo.cs
+C:\c-sharp\treino-c-sharp\iteracao\multi_vetor\obj\Debug\net8.0\multi_vetor.csproj.CoreCompileInputs.cache
+C:\c-sharp\treino-c-sharp\iteracao\multi_vetor\obj\Debug\net8.0\multi_vetor.sourcelink.json
+C:\c-sharp\treino-c-sharp\iteracao\multi_vetor\obj\Debug\net8.0\multi_vetor.dll
+C:\c-sharp\treino-c-sharp\iteracao\multi_vetor\obj\Debug\net8.0\refint\multi_vetor.dll
+C:\c-sharp\treino-c-sharp\iteracao\multi_vetor\obj\Debug\net8.0\multi_vetor.pdb
+C:\c-sharp\treino-c-sharp\iteracao\multi_vetor\obj\Debug\net8.0\multi_vetor.genruntimeconfig.cache
+C:\c-sharp\treino-c-sharp\iteracao\multi_vetor\obj\Debug\net8.0\ref\multi_vetor.dll

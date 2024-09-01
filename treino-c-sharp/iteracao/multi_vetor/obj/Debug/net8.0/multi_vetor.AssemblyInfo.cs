@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("buscanumero")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("multi_vetor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+969c50d5a6bac7906d05a9cad23c5b221a2a15bb")]
-[assembly: System.Reflection.AssemblyProductAttribute("buscanumero")]
-[assembly: System.Reflection.AssemblyTitleAttribute("buscanumero")]
+[assembly: System.Reflection.AssemblyProductAttribute("multi_vetor")]
+[assembly: System.Reflection.AssemblyTitleAttribute("multi_vetor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
