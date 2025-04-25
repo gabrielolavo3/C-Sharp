@@ -1,8 +1,8 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
-using TMPro;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class LevelController : MonoBehaviour
 {
@@ -13,29 +13,15 @@ public class LevelController : MonoBehaviour
         public int Rows;
         public float Spacing;
         public int Difficulty;
-        public int Movements;
     }
 
     private List<CardController> _cards = new List<CardController>();
 
     [SerializeField] private CardController _cardPrefab;
-
-    [Header("UI References")]
-    [SerializeField] private TMP_Text _levelText;
-    [SerializeField] private TMP_Text _movementText;
-    [SerializeField] private GameObject _gamerOverButton;
-
-    [Header("LevelData")]
     [SerializeField] private List<LevelData> _levels = new List<LevelData>();
 
-    //[SerializeField] private int _columns = 4;
-    //[SerializeField] private int _rows = 4;
-    //[SerializeField] private float _spacing = 0.5f;
-    //[SerializeField] private int _difficulty = 4;
-    //[SerializeField] private int _movements = 10;
-
     private CardController _activeCard;
-    private int _movementsUsed = 0;
+    private ScoreManager _scoreManager;
     private bool _blockInput = true;
     private int _level = 0;
     private bool _gameEnded = false;
@@ -44,12 +30,12 @@ public class LevelController : MonoBehaviour
     {
         _level = PlayerPrefs.GetInt("Level", 0);
         StartLevel();
+        _scoreManager = FindObjectOfType<ScoreManager>();
+        _scoreManager.ReconfigurarPlacares();
     }
 
     public void StartLevel()
     {
-        _gamerOverButton.SetActive(false);
-
         Debug.Assert((_levels[_level].Rows * _levels[_level].Columns) % 2 == 0);
 
         if (_levels[_level].Difficulty > _cardPrefab.maxCardTypes)
@@ -69,7 +55,7 @@ public class LevelController : MonoBehaviour
 
         List<int> gameTypes = new List<int>();
 
-        for (int i = 0; i < (_levels[_level].Rows * _levels[_level].Columns) / 2; i++) // Número de pares necessários
+        for (int i = 0; i < (_levels[_level].Rows * _levels[_level].Columns) / 2; i++)
         {
             if (allTypes.Count == 0)
             {
@@ -87,10 +73,9 @@ public class LevelController : MonoBehaviour
         foreach (var type in gameTypes)
         {
             chosenTypes.Add(type);
-            chosenTypes.Add(type); // Cada tipo duas vezes (um par)
+            chosenTypes.Add(type);
         }
 
-        // Embaralhar as cartas (opcional mas recomendado para aleatoriedade)
         Shuffle(chosenTypes);
 
         Vector3 offset = new Vector3((_levels[_level].Columns - 1) * (_cardPrefab.cardSize + _levels[_level].Spacing), (_levels[_level].Rows - 1) * (_cardPrefab.cardSize + _levels[_level].Spacing), 0f) * 0.5f;
@@ -100,9 +85,7 @@ public class LevelController : MonoBehaviour
             for (int col = 0; col < _levels[_level].Columns; col++)
             {
                 Vector3 position = new Vector3(col * (_cardPrefab.cardSize + _levels[_level].Spacing), y * (_cardPrefab.cardSize + _levels[_level].Spacing), 0f);
-
                 var card = Instantiate(_cardPrefab, position - offset, Quaternion.identity);
-
                 card.cardtype = chosenTypes[0];
                 chosenTypes.RemoveAt(0);
                 card.onClicked.AddListener(OnCardClicked);
@@ -113,12 +96,9 @@ public class LevelController : MonoBehaviour
         _blockInput = false;
         _gameEnded = false;
         SetCardsInteractable(true);
-        _movementsUsed = 0;
-        _levelText.text = $"Level: {_level}";
-        _movementText.text = $"Moves: {_levels[_level].Movements}";
+        _activeCard = null;
     }
 
-    // Função para embaralhar uma lista
     private void Shuffle(List<int> list)
     {
         for (int i = 0; i < list.Count; i++)
@@ -128,15 +108,10 @@ public class LevelController : MonoBehaviour
         }
     }
 
-
     private void OnCardClicked(CardController card)
     {
-        //card.TestAnimation();
-
         if (_blockInput)
-        {
             return;
-        }
 
         _blockInput = true;
 
@@ -145,9 +120,6 @@ public class LevelController : MonoBehaviour
             StartCoroutine(SelectCard(card));
             return;
         }
-
-        _movementsUsed++;
-        _movementText.text = $"Moves: {_levels[_level].Movements - _movementsUsed}";
 
         if (card.cardtype == _activeCard.cardtype)
         {
@@ -175,17 +147,11 @@ public class LevelController : MonoBehaviour
         Destroy(card.gameObject);
         Destroy(_activeCard.gameObject);
         _activeCard = null;
-        _blockInput = false;
+        _scoreManager.AddAcerto();
 
         if (_cards.Count < 1)
         {
             Win();
-            yield break;
-        }
-
-        if (_movementsUsed >= _levels[_level].Movements)
-        {
-            Lose();
             yield break;
         }
 
@@ -199,15 +165,9 @@ public class LevelController : MonoBehaviour
         _activeCard.Hide();
         card.Hide();
         _activeCard = null;
+        _scoreManager.AddErro();
+
         yield return new WaitForSeconds(0.5f);
-        _blockInput = false;
-
-        if (_movementsUsed >= _levels[_level].Movements)
-        {
-            Lose();
-            yield break;
-        }
-
         _blockInput = false;
     }
 
@@ -215,7 +175,7 @@ public class LevelController : MonoBehaviour
     {
         _level++;
 
-        if (_level > _levels.Count)
+        if (_level >= _levels.Count)
         {
             _level = 0;
         }
@@ -224,16 +184,16 @@ public class LevelController : MonoBehaviour
         Debug.Log("Victory");
 
         _gameEnded = true;
+        _scoreManager.SalvarPontuacao();
         SetCardsInteractable(false);
-        _gamerOverButton.SetActive(true);
+
+        StartCoroutine(TransitionFinalScene());     
     }
 
-    private void Lose()
+    private IEnumerator TransitionFinalScene()
     {
-        Debug.Log("Defeat");
-        _gameEnded = true;
-        SetCardsInteractable(false);
-        _gamerOverButton.SetActive(true);
+        yield return new WaitForSeconds(0.5f);
+        SceneManager.LoadScene("FinalScene");
     }
 
     private void SetCardsInteractable(bool interactable)
